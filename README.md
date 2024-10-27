@@ -14,5 +14,5 @@ This Python script simulates a directory tree, allowing users to create, move, d
    ```bash
    python main.py
 or
-```bash
+   ```bash
    python3 main.py
